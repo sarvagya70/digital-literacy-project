@@ -22,7 +22,7 @@ To establish a high-impact visual resource that defines digital literacy and pro
 ---
 
 ### **1.4 Module Reflection**
-Name: Pranav Raghuvanshi | Reg No: 25BCY10108 
+Name: Sarvagya Anand | Reg No: 25BCE10648 
 
 As a Student Digital Ambassador at VIT Bhopal, I designed this visual resource to simplify the broad concept of digital literacy for my peers. I chose Canva as my primary tool because its professional templates allowed me to strike a balance between aesthetic appeal and technical depth. The resulting infographic focuses on four critical pillars: foundational definitions, student-centric tools, security protocols (with a focus on UPI safety), and professional branding.
 
